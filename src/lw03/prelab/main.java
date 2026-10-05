@@ -1,4 +1,4 @@
-package lw03;
+package lw03.prelab;
 
 import java.io.File;
 import java.io.FileNotFoundException;
